@@ -1,7 +1,8 @@
-# Hello Brother
+# Oh, Hai 👋
 
-![My Image](https://miro.medium.com/max/1187/1*0FqDC0_r1f5xFz3IywLYRA.jpeg)
+![My Image](https://camo.githubusercontent.com/275012b6c7fddf69d621ef219185125ae9e79cc939aa055d727ed84bb43f6992/68747470733a2f2f7777772e6368617774656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f646576656c6f7065722e676966)
 
+# About Me
 - 👋 Hi, I’m @bantutataweb ( Geraldine Firdaus )
 - 👀 I'm interested in eating and coding
 - 🌱 I'm learning what I want to learn
