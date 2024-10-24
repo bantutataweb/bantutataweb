@@ -1,12 +1,8 @@
-# Oh, Hai 👋
+# Oh, I'm Gerald'z 👋
 
 ![bantutataweb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bantutataweb&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-# About Me
-- 👋 Hi, I’m @bantutataweb ( Geraldine Firdaus )
-- 👀 I'm interested in eating and coding
-- 🌱 I'm learning what I want to learn
-- 📫 How to reach me ?
-  FB : https://web.facebook.com/lampungprov.go.id
+
+Languages :
 
 
 
