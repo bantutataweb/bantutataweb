@@ -1,6 +1,6 @@
 # Oh, Hai 👋
 
-![My Image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia5q7jzZBfW0pD1aI7FOsVk3AgAY_ErklSZ8Iz1WSOsHZ0oxlTXD7deYKpiH6CPs8fBbvut_ESgwVG_-hL31mTGrykA1HDteGDGbuPzNbZUV6_YV6afPMsti9NH6Vj6gQ7-t-TM3uLfvg/s1600/bosen.jpg)
+![bantutataweb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bantutataweb&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 # About Me
 - 👋 Hi, I’m @bantutataweb ( Geraldine Firdaus )
