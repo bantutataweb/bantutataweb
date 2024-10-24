@@ -1,7 +1,6 @@
 # Oh, Hai 👋
 
-![bantutataweb's Stats](https://github-readme-stats.vercel.app/api?username=bantutataweb&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-
+![bantutataweb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bantutataweb&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 # About Me
 - 👋 Hi, I’m @bantutataweb ( Geraldine Firdaus )
 - 👀 I'm interested in eating and coding
